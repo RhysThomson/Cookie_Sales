@@ -1,4 +1,4 @@
-### Cookie Sales Project
+#### Cookie Sales Project
 
 ## Project Overview
 
